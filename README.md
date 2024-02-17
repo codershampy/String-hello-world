@@ -1,2 +1,1 @@
-# String-hello-world
-print hello world
+# C Practical file programs 
