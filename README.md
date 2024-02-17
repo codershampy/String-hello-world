@@ -1,1 +1,2 @@
-# C Practical file programs 
+#String hello world 
+print hello world
